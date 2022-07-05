@@ -1,6 +1,6 @@
 # Helo! 🤟🏽
 
-I'm evan, a 17 year old French enby, otherwise known as client, cli, evpn, evⁿ or mrep on the web 👀
+I'm evan ((they/them - il/elle)[//pronouns.page/@evn]), a 17 year old French enby, otherwise known as client, cli, evpn, evⁿ or mrep on the web 👀
 
 I'm a general technology enthousiasist that tends to hyperfixate on everything that is computer related.<br>
 Currently, I'm into programming, vidya (Mainly *Roblox*, *Counter Strike: Source*, *Movement* and *Rhythm* games), animating, 3D modelling, and designing!
