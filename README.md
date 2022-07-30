@@ -5,7 +5,7 @@ I'm evan ([they/them - il/elle](//pronouns.page/@evn)), a 17 year old French enb
 I'm a general technology enthousiasist that tends to hyperfixate on everything that is computer related.<br>
 Currently, I'm into programming, vidya (Mainly *Roblox*, *Counter Strike: Source*, *Movement* and *Rhythm* games), animating, 3D modelling, and designing!
 
-If you wish to simply contact me, please visit my (landing page @ ev.omg.lol)[//ev.omg.lol] to check out my (public) socials, otherwise feel free to email me @ `ev@omg.lol` or `gh@cli.lol`!
+If you wish to simply contact me, please visit my [landing page @ ev.omg.lol](//ev.omg.lol) to check out my (public) socials, otherwise feel free to email me @ `ev@omg.lol` or `gh@cli.lol`!
 
 # I'm currently... 🕵🏽
 
