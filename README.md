@@ -27,6 +27,9 @@ As for visual languages, I'm fluent in Markdown & decent at HTML.
 I plan to learn more languages in the future, specifically Rust & Go.<br>
 My main IDE **is Visual Studio Code**, but I use **nano** and **Kate** for small projects, and **Roblox Studio** for everything Roblox related.
 
+I'm also currently trying out 3D modelling and have been since February 2022...<br>
+[See my portfolio here!](3D.md)
+
 ---
 
 ![neofetch](/res/neofetch.png)
