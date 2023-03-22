@@ -2,7 +2,7 @@
 
 I'm evn ([they/them - il/elle](//pronouns.page/@evn)), a 18 year old French enby, otherwise known as client, cli, evpn, evⁿ or mrep on the web 👀
 
-I'm a general technology enthousiasist that tends to hyperfixate on everything that is computer related.<br>
+I'm a general technology enthousiasist that tends to gravitate on everything that is computer related.<br>
 Currently, I'm into programming, vidya (Mainly *Roblox*, *Counter Strike: Source*, *Movement* and *Rhythm* games), animating, 3D modelling, and designing!
 
 If you wish to simply contact me, please visit my [landing page @ ev.omg.lol](//ev.omg.lol) to check out my (public) socials, otherwise feel free to email me @ `ev@omg.lol` or `gh@cli.lol`!
