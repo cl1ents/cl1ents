@@ -12,6 +12,7 @@ If you wish to simply contact me, please visit my [landing page @ ev.omg.lol](//
 + Tech lead, Creative lead & Co-Owner @ [Emotes CO.](//ttd3.qts.life)
 + Brand runner & Co-Founder @ [cofi ☕](//cofi.qts.life)
 + Learning about the wonders of Virtual Reality
++ Messing around with older tech!
 
 # Skills & Tools ⚙
 
@@ -24,7 +25,7 @@ I actively work using the following programming languages:
 
 As for visual languages, I'm fluent in Markdown & decent at HTML.
 
-I plan to learn more languages in the future, specifically Rust & Go.<br>
+I plan to learn more languages in the future, specifically Rust & C/C++.<br>
 My main IDE **is Visual Studio Code**, but I use **nano** and **Kate** for small projects, and **Roblox Studio** for everything Roblox related.
 
 I'm also currently trying out 3D modelling and have been since February 2022...<br>
