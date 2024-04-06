@@ -33,9 +33,14 @@ I'm also currently trying out 3D modelling and have been since February 2022...<
 [See my portfolio here!](3D.md)
 
 ---
+<p align="center">
+  <img src="/res/neofetch.png?">
+</p>
 
-![neofetch](/res/neofetch.png?)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cl1ents&hide=contribs,prs&theme=dark">
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cl1ents&hide=contribs,prs&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cl1ents&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cl1ents&theme=dark">
+</p>
