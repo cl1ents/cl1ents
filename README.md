@@ -34,7 +34,7 @@ I'm also currently trying out 3D modelling and have been since February 2022...<
 
 ---
 
-![neofetch](/res/neofetch.png)
+![neofetch](/res/neofetch.png?)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cl1ents&hide=contribs,prs&theme=dark)
 
