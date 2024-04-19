@@ -9,8 +9,8 @@ If you wish to simply contact me, please visit my [landing page @ bio.evn.gg](//
 
 # I'm currently... 🕵🏽
 
-+ Tech lead, Creative lead & Co-Owner @ [Emotes CO.](//ttd3.qts.life)
-+ Brand runner & Co-Founder @ [cofi ☕](//cofi.qts.life)
++ Tech lead, Creative lead & Co-Owner @ [Emotes CO.](//emotes.co)
++ Brand runner & Co-Founder @ [cofi ☕](//cofi.works)
 + Learning about the wonders of Virtual Reality
 + Messing around with older tech!
 
